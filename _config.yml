@@ -26,7 +26,7 @@ disqus_shortname: myshortname
 color:
   primary: ED8218 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  secondary: 3B3C44 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
@@ -51,11 +51,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 
+  - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
