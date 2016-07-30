@@ -247,7 +247,7 @@ section.success {
 
 @media(min-width:320px) {
     #portfolio .portfolio-item {
-        margin: 2px;
+        margin: 1px;
     }
 }
 
