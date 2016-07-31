@@ -1149,6 +1149,10 @@ max-width: 100%;
 height: auto
 }
 
+.img-responsive-ddlcy{
+	max-width: 80%;
+}
+
 .img-rounded {
 border-radius: 6px
 }
