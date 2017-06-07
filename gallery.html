@@ -55,17 +55,25 @@ isNaN(b)?!0:a>b};this._resetAlt=function(a,b){var d=a.getAttribute("alt"),c=d&&0
 	<div id="site">
 		<div id="canvas">
 
-			<div id="headerWrapper">
+			<div>
 				<header1>
-          <div id="header1">
-            <h1><a title="{{ site.name }}" class="" href="/">{{ site.name }}</a></h1>
+          <div id="header">
+            <h1><a title="inside shutter" class="" href="/">inside shutter</a></h1>
           </div>
           <nav>
-            {% for nav in site.navigations %}
-            <span><a title="{{ nav.title }}" href="{{ nav.href }}"><i class="{{ nav.class }}"></i></a></span>
-            {% endfor %}
+            
+            <span><a title="Archive" href="/archive.html"><i class="fa fa-list-ul"></i></a></span>
+            
+            <span><a title="Tags" href="/tags.html"><i class="fa fa-tags"></i></a></span>
+            
+            <span><a title="About" href="/about.html"><i class="fa fa-user"></i></a></span>
+            
+            <span><a title="Gallery" href="/gallery.html"><i class="fa fa-film"></i></a></span>
+            
+            <span><a title="Subscribe" href="/atom.xml"><i class="fa fa-rss"></i></a></span>
+            
           </nav>
-        </header>
+        </header1>
 			</div><!-- / headerWrapper -->
 
 			<div id="pageWrapper" class="hfeed" role="main">
