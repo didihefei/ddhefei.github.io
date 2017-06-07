@@ -1,7 +1,7 @@
 ---
 title: 2015
 layout: post
-
+guid: urn:uuid:de8d598d-6f35-4c7b-ab23-1951062dadfc
 tags:
   - photography
   - leica
