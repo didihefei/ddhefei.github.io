@@ -1,7 +1,7 @@
 ---
 title: Fresh Start
 layout: post
-
+guid: urn:uuid:8d616399-b196-4169-944e-659f2fd7c10f
 tags:
   - photography
   - instagram
